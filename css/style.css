@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css2?family=Lora&family=Poppins:wght@400;500&family=Prata&display=swap);
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url(images/background.jpg);
+@import url("components/card.css");
+
+
+
+head {
+	background-color: ghostwhite;
+}
+
+body {
+	font-family: Lora;
+	font-weight: bold;
+	background-color: ghostwhite;
+}
+
+head {
+font-family: Poppins;
+}
+
+h1, h2, h3 {
+	font-family: Poppins;
+}
+
+a {
+	text-decoration: none;
+	font-family: Poppins;
+	font-weight: bold;
+}
